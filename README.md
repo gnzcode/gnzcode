@@ -1,10 +1,31 @@
 # Gnzcode 👋
 
-## Introduction
-My name is Alexis (Gnzcode), and I'm an enthusiastic and dedicated web developer. I started my programming journey two years ago when I came up with the brilliant idea of creating a Discord bot using Node.js, despite having no prior coding experience. I encountered countless challenges along the way since I knew nothing, but soon realized that I found it enjoyable to face new obstacles.
+## [ Full stack developer ]
 
-Currently, after learning programming properly, I'm working on personal projects while preparing myself for my first professional experience in the near future.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gnzcode&label=Profile%20views&color=0e75b6&style=flat" alt="Gnzcode" /> </p>
 
-## Contact
-- Email: gnzcode@gmail.com
-- Portfolio: [gnzcode.com](https://gnzcode.com)
+### About Me
+
+- I am 18 years old and I am from Mexico.
+- I am a MERN and PERN Full Stack developer.
+- I've been programming for two years as I spend my time.
+- I enjoy challenges and learning new things with them.
+
+### Technologies
+
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS&logoColor=CE6B9E)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  <br/>
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+
+### Contact Me
+
+<a href="https://www.linkedin.com/in/gnzcode/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alexis%20Gonzalez-blue?style=flat-square&logo=linkedin"></a>
+<a href="gnzcode@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-gnzcode@gmail.com-blue?style=flat-square&logo=gmail"></a>  
