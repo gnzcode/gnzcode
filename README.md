@@ -28,4 +28,4 @@
 ### Contact Me
 
 <a href="https://www.linkedin.com/in/gnzcode/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alexis%20Gonzalez-blue?style=flat-square&logo=linkedin"></a>
-<a href="gnzcode@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-gnzcode@gmail.com-blue?style=flat-square&logo=gmail"></a>  
+<a href="contact@gnzcode.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-contact@gnzcode.com-blue?style=flat-square&logo=gmail"></a>  
